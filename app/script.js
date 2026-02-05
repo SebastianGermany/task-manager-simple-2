@@ -1,1 +1,3 @@
-// notification logic will be added in backend branch
+document.getElementById("completeBtn").addEventListener("click", () => {
+  alert("Task completed! Notification sent.");
+});
