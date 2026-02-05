@@ -1,6 +1,12 @@
 <!doctype html>
 <html>
 <head>
+
+<style>
+  body { font-family: Arial, sans-serif; padding: 20px; }
+  #message { margin-top: 12px; font-weight: bold; }
+</style>
+
   <meta charset="utf-8">
   <title>Task Manager Simple</title>
 </head>
