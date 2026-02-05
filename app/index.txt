@@ -1,12 +1,20 @@
 <!doctype html>
 <html>
 <head>
+
+<style>
+  body { font-family: Arial, sans-serif; padding: 20px; }
+  #message { margin-top: 12px; font-weight: bold; }
+</style>
+
   <meta charset="utf-8">
   <title>Task Manager Simple</title>
 </head>
 <body>
 
   <h1>Task Manager</h1>
+  <p>Status: waiting…</p>
+
 
   <button id="completeBtn">Complete Task</button>
   <div id="message"></div>
